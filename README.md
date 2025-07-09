@@ -135,10 +135,20 @@ const abhishek = {
 
 ---
 
-<div align="center">
+<div>
 
-### 💬 Quote of the Day
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+### 💻 Not a Quote
+
+```cpp
+while(mistakeMade){
+    if(learned){
+        print("you have improved!!!");
+    }
+    else{
+        // try again!
+    }
+}
+```
 
 ---
 
